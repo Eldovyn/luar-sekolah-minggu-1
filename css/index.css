@@ -1,3 +1,15 @@
 section.hero-section {
   background-color: white;
+}
+
+section.about-company {
+  background-color: white;
+}
+section.about-company .banner-company {
+  width: 40%;
+}
+
+hr.hr-hero-section-about-company {
+  width: 80%;
+  margin: 0 auto;
 }/*# sourceMappingURL=index.css.map */
