@@ -9,6 +9,10 @@ section.about-company .banner-company {
   width: 40%;
 }
 
+section.testimoni-section {
+  background-color: white;
+}
+
 body hr {
   width: 80%;
   margin: 0 auto;
